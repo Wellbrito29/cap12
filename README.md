@@ -11,11 +11,11 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">WELLIGTON NASCIMENTO DE BRITO -RM 552157</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">CELESTE LEITE DOS SANTOS - RM 559312</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">EDUARDO CARVALHO - RM 95585</a> 
+- <a href="https://www.linkedin.com/company/inova-fusca">LUMA SANTOS DE OLIVEIRA - RM 560146</a> 
+- <a href="https://www.linkedin.com/company/inova-fusca"> RICARDO ARAÚJO DE OLIVEIRA - RM 561182</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
